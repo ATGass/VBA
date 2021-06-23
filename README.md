@@ -37,11 +37,13 @@ Both ENPH and RUN stocks had postive returns in 2017 and 2018. Only ENPH had an 
 
 ### 2017 Run Time Comparison
 As you can see below, the refactored code made the run time over 8 times faster than the original code. 
+
 <img width="252" alt="2017_Normal" src="https://user-images.githubusercontent.com/82982180/123039648-26016180-d3b8-11eb-9dc7-c71bdc152fcf.png">
 <img width="252" alt="2017_Refactored" src="https://user-images.githubusercontent.com/82982180/123039659-2a2d7f00-d3b8-11eb-8107-43ac148988f5.png">
 
 ### 2018 Run Time Comparison
 As you can see below, the refactored code made the run time over 8 and a half times faster than the original code.
+
 <img width="252" alt="2018_Normal" src="https://user-images.githubusercontent.com/82982180/123039736-49c4a780-d3b8-11eb-9e2d-58e6b7280e22.png">
 <img width="252" alt="2018_Refactored" src="https://user-images.githubusercontent.com/82982180/123039746-4e895b80-d3b8-11eb-98ab-799940e0e0d9.png">
 
