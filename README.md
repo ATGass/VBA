@@ -34,17 +34,18 @@ In 2018 a completely different story is told where there are only two stocks tha
 Both ENPH and RUN stocks had postive returns in 2017 and 2018. Only ENPH had an outstanding rate in 2017 and was barely beat out by RUN with a slightly better return rate in 2018. Based on ENPH and its consistent performance across both years, it would be my front-runner to invest in. RUN would be my second recommendation, seeing as it was the only other stock that had a positive return rate in 2018 and it's improvement from 2017 to 2018 might be a sign of a trend. It also might be worth while to be on the lookout for SEDG which had an off year in 2018 with a -8% return rate but it might be a good time to buy in as it had the second best return rate in 2017. 
 
 ### 2017 Run Time Comparison
-
+As you can see below, the refactored code made the run time over 8 times faster than the original code. 
 <img width="252" alt="2017_Normal" src="https://user-images.githubusercontent.com/82982180/123039648-26016180-d3b8-11eb-9dc7-c71bdc152fcf.png">
 <img width="252" alt="2017_Refactored" src="https://user-images.githubusercontent.com/82982180/123039659-2a2d7f00-d3b8-11eb-8107-43ac148988f5.png">
 
 ### 2018 Run Time Comparison
-
+As you can see below, the refactored code made the run time over 8 and a half times faster than the original code.
 <img width="252" alt="2018_Normal" src="https://user-images.githubusercontent.com/82982180/123039736-49c4a780-d3b8-11eb-9e2d-58e6b7280e22.png">
 <img width="252" alt="2018_Refactored" src="https://user-images.githubusercontent.com/82982180/123039746-4e895b80-d3b8-11eb-98ab-799940e0e0d9.png">
 
 ## Advantages of Refactoring Code
 An overall faster run time when running the code later seems to be the main advantage. It can help the code become more efficient. The efficiency doesn't only apply to the time it takes to run the code, but possibly the understanding of the code. When you refactor the code you have to fully understand what you have written and also have a better way to write it that improves the code. This helps you better understand the ins and outs while giving you an opporunity to improve your past work. 
+
 ## Disadvantages of Refactoring Code
 It is a time consuming process and if the dataset is not large then there isn't much added benefit. In terms of this scenario, the code run time went from being around a half a second to a seven hundredth of a second. In my experience, this doesn't help me gain much. If the code took 30 minutes to run and then the refactor code took 7 seconds to run, then I could see the benefit. That is essentially the difference that the refactored code would have had on a much larger dataset. 
 Refactoring the code does give another opportunity to mess up what you already have in place. If it is something that's worth doing, I believe it is worth while to spell out those steps before taking them. The given code for the challenge helped direct me to the right places and gave me an order in which I needed to implement the new code. Without the established steps in place it would be easy to edit the wrong pieces of code. 
