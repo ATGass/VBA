@@ -12,7 +12,9 @@ It pops up similarly to a message box but in this case it allows the user to cho
 
 <img width="481" alt="Screen Shot 2021-06-22 at 10 21 06 PM" src="https://user-images.githubusercontent.com/82982180/123030612-ae780600-d3a8-11eb-9279-324cfa0bef66.png">
 
-In this use case there are only two options to choose from, either 2017 or 2018. Once the user chooses the year then the code is ran and the sheet represents data from the chosen year. This is done so by the yearValue variable which is chosen by the user's input and then used throughout the rest of the code to ensure that the correct data is displayed. <img width="389" alt="Screen Shot 2021-06-22 at 10 30 04 PM" src="https://user-images.githubusercontent.com/82982180/123035137-6fe64980-d3b0-11eb-9cc4-147a501cbc00.png">
+In this use case there are only two options to choose from, either 2017 or 2018. Once the user chooses the year then the code is ran and the sheet represents data from the chosen year. This is done so by the yearValue variable which is chosen by the user's input and then used throughout the rest of the code to ensure that the correct data is displayed. 
+
+<img width="389" alt="Screen Shot 2021-06-22 at 10 30 04 PM" src="https://user-images.githubusercontent.com/82982180/123035137-6fe64980-d3b0-11eb-9cc4-147a501cbc00.png">
 <img width="381" alt="Screen Shot 2021-06-22 at 11 21 35 PM" src="https://user-images.githubusercontent.com/82982180/123035232-a0c67e80-d3b0-11eb-8fc5-614cca9ed987.png">
 
 I used for loops and if statements to have the proper values in the corresponding cells. 
